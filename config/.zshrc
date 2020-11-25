@@ -8,17 +8,18 @@ function cpp {
     echo "\n" && make $base && echo $title${hr:23}"\n" && ./$base && rm ./$base
   fi
 }
+
 # setup ZSH
-export ZSH=$HOME/.oh-my-zsh
 export ZSH_DISABLE_COMPFIX="true"
+export ZSH=$HOME/.oh-my-zsh
 ZSH_THEME="agnoster"
 plugins=(git)
 source $ZSH/oh-my-zsh.sh
 
 #alias
 alias o="open ."
-alias cpp=cpp()
-alias gh = "cd ~/Documents/GitHub"
+alias cpp=cpp
+alias gh="cd ~/Documents/GitHub"
 
 #nvm
 source ~/.nvm/nvm.sh
