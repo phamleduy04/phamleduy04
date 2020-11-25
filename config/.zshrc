@@ -1,5 +1,4 @@
-# Cài đặt oh-my-zsh trước khi sử dụng
-
+#cpp func
 function cpp {
   if [ -z "$1" ]; then 
     echo "No file provided."
@@ -9,14 +8,18 @@ function cpp {
     echo "\n" && make $base && echo $title${hr:23}"\n" && ./$base && rm ./$base
   fi
 }
+# setup ZSH
+export ZSH=$HOME/.oh-my-zsh
 export ZSH_DISABLE_COMPFIX="true"
-export ZSH="/Users/dp/.oh-my-zsh"
-alias o="open ."
-source ~/.nvm/nvm.sh
-nvm use stable
-
-alias cpp=cpp()
 ZSH_THEME="agnoster"
 plugins=(git)
-
 source $ZSH/oh-my-zsh.sh
+
+#alias
+alias o="open ."
+alias cpp=cpp()
+alias gh = "cd ~/Documents/GitHub"
+
+#nvm
+source ~/.nvm/nvm.sh
+nvm use stable
