@@ -23,4 +23,4 @@ alias gh="cd ~/Documents/GitHub"
 
 #nvm
 source ~/.nvm/nvm.sh
-nvm use stable
+nvm use --lts
