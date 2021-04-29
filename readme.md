@@ -6,7 +6,7 @@
 | Tên | Giới thiệu | Link |
 |------|------|-----------|
 | AgentBot | 1 bot Discord đa năng cho server bạn! | Top.gg: https://top.gg/bot/645883401500622848 |
-| chongdacap | Chrome extendsion phát hiện các hành vi đa cấp | https://github.com/phamleduy04/chongdacap |
+| chongdacap | Chrome extendsion phát hiện các hành vi đa cấp | https://chongdacap.xyz |
 | bitcoin-alert-discord | Bot Discord đơn giản để cảnh báo khi giá bitcoin cao hơn hoặc thấp hơn ngưỡng đã set từ trước | Github: https://github.com/phamleduy04/bitcoin-alert-discord |
 | yahoo-stock-api | Simple wrapper package to get stock and historical price from finance.yahoo.com | NPM: https://www.npmjs.com/package/yahoo-stock-api |
 | chatvoinguoila | Ứng dụng chat với người lạ trên Messenger sử dụng Redis và MongoDB. | Github: https://github.com/phamleduy04/chatvoinguoila |
