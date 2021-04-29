@@ -13,4 +13,5 @@
 | corona-bot | Discord bot dùng để cập nhật tình hình virus Corona. | Github: https://github.com/phamleduy04/corona-bot |
 | corona-chrome-extension | Tiện ích chrome báo tình hình virus corona trong 1 click! | Github: https://github.com/phamleduy04/corona-chrome-extension |
 | djsdocs-generator | Discord.js docs generator/wrapper | Github: https://github.com/phamleduy04/djsdocs-generator |
-
+| COV-Bot | A Discord bot that helps to show covid data by country, US state, county + predict covid status will go up or down using machine learning. We also create our own API to scrap and serve the data. | https://devpost.com/software/cov-bot-nv4g8u
+| Trivia Discord Bot | A discord bot that helps people while chatting with others can learn more knowledge! | https://devpost.com/software/trivia-discord-bot
