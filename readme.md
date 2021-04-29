@@ -5,13 +5,12 @@
 # Một số project của mình
 | Tên | Giới thiệu | Link |
 |------|------|-----------|
-| AgentBot | 1 bot Discord đa năng cho server bạn! | Top.gg: https://top.gg/bot/645883401500622848 |
-| chongdacap | Chrome extendsion phát hiện các hành vi đa cấp | https://chongdacap.xyz |
-| bitcoin-alert-discord | Bot Discord đơn giản để cảnh báo khi giá bitcoin cao hơn hoặc thấp hơn ngưỡng đã set từ trước | Github: https://github.com/phamleduy04/bitcoin-alert-discord |
+| AgentBot | A Vietnamese, multi-purpose bot used for animals pics, do some easy math stuff, get some meme, social media information, and more! | Top.gg: https://top.gg/bot/645883401500622848 |
+| chongdacap | Chrome extendsion that's detect scamming on Messenger and Facebook | https://chongdacap.xyz |
+| bitcoin-alert-discord | A discord bot will alert when the price of bitcoin raise up or down | Github: https://github.com/phamleduy04/bitcoin-alert-discord |
 | yahoo-stock-api | Simple wrapper package to get stock and historical price from finance.yahoo.com | NPM: https://www.npmjs.com/package/yahoo-stock-api |
-| chatvoinguoila | Ứng dụng chat với người lạ trên Messenger sử dụng Redis và MongoDB. | Github: https://github.com/phamleduy04/chatvoinguoila |
-| corona-bot | Discord bot dùng để cập nhật tình hình virus Corona. | Github: https://github.com/phamleduy04/corona-bot |
-| corona-chrome-extension | Tiện ích chrome báo tình hình virus corona trong 1 click! | Github: https://github.com/phamleduy04/corona-chrome-extension |
+| chatvoinguoila | Chat with strangers app using MongoDB and Bottender. | Github: https://github.com/phamleduy04/chatvoinguoila |
+| corona-chrome-extension | Corona status in chrome extension! | Github: https://github.com/phamleduy04/corona-chrome-extension |
 | djsdocs-generator | Discord.js docs generator/wrapper | Github: https://github.com/phamleduy04/djsdocs-generator |
 | COV-Bot | A Discord bot that helps to show covid data by country, US state, county + predict covid status will go up or down using machine learning. We also create our own API to scrap and serve the data. | https://devpost.com/software/cov-bot-nv4g8u
 | Trivia Discord Bot | A discord bot that helps people while chatting with others can learn more knowledge! | https://devpost.com/software/trivia-discord-bot
