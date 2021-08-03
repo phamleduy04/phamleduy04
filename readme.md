@@ -6,6 +6,7 @@
 | Tên | Giới thiệu | Link |
 |------|------|-----------|
 | AgentBot | A Vietnamese, multi-purpose bot used for animals pics, do some easy math stuff, get some meme, social media information, and more! | Top.gg: https://top.gg/bot/848053364298088458 Homepage: https://agentbot.xyz |
+| ncovvn | API cung cấp thông tin, dữ liệu bệnh nhân về COVID-19! | Trang chủ: https://ncovvn.xyz |
 | chongdacap | Chrome extendsion that's detect scamming on Messenger and Facebook | https://chongdacap.xyz |
 | bitcoin-alert-discord | A discord bot will alert when the price of bitcoin raise up or down | Github: https://github.com/phamleduy04/bitcoin-alert-discord |
 | yahoo-stock-api | Simple wrapper package to get stock and historical price from finance.yahoo.com | NPM: https://www.npmjs.com/package/yahoo-stock-api |
