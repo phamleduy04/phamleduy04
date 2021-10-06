@@ -4,7 +4,7 @@
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=phamleduy04&count_private=true&show_icons=true&theme=tokyonight)
 
-# Một số project của mình
+# Project Showcase
 | Tên | Giới thiệu | Link |
 |------|------|-----------|
 | AgentBot | A Vietnamese, multi-purpose bot used for animals pics, do some easy math stuff, get some meme, social media information, and more! | Top.gg: https://top.gg/bot/848053364298088458 Homepage: https://agentbot.xyz |
