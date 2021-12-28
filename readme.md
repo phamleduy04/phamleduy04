@@ -4,6 +4,9 @@
 
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=phamleduy04&count_private=true&show_icons=true&theme=tokyonight)
 
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
 # Project Showcase
 | Tên | Giới thiệu | Link |
 |------|------|-----------|
