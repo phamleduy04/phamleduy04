@@ -1,10 +1,10 @@
 ![Profile View](https://komarev.com/ghpvc/?username=phamleduy04&style=flat-square)
 
-![My GitHub Lang Stats](https:/github-stats.agentbot.xyz/api/top-langs/?username=phamleduy04&theme=tokyonight&layout=compact)
+![My GitHub Lang Stats](https://github-stats.agentbot.xyz/api/top-langs/?username=phamleduy04&theme=tokyonight&layout=compact)
 
 ![My GitHub Stats](https://github-stats.agentbot.xyz/api?username=phamleduy04&count_private=true&show_icons=true&theme=tokyonight)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
 
 
 # Project Showcase
