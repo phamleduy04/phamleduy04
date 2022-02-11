@@ -21,6 +21,7 @@ alias o="open ."
 alias cpp=cpp
 alias gh="cd ~/Documents/GitHub"
 
+
 #nvm
 source ~/.nvm/nvm.sh
 nvm use --lts
