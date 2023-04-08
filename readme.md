@@ -8,6 +8,9 @@
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)
 
+[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/phamleduy04.png)](https://tryhackme.com/p/phamleduy04)
+
+
 
 # Project Showcase
 | Tên | Giới thiệu | Link |
