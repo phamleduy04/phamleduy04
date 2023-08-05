@@ -1,4 +1,4 @@
-name: Waka Readme
+name: WakaTime
 
 on:
     workflow_dispatch: # for manual workflow trigger
@@ -6,13 +6,15 @@ on:
         - cron: "0 0 * * *" # runs at every 12AM UTC
 
 jobs:
-    update-readme:
-        name: WakaReadme DevMetrics
+    github-metrics:
         runs-on: ubuntu-latest
         steps:
-            - uses: athul/waka-readme@master
+            - uses: lowlighter/metrics@latest
               with:
-                WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-                API_BASE_URL: ${{ secrets.API_BASE_URL }}
-                TIME_RANGE: 'last_30_days'
-                SHOW_MASKED_TIME: true
+                  filename: metrics.plugin.wakatime.svg
+                  token: NOT_NEEDED
+                  base: ""
+                  plugin_wakatime: yes
+                  plugin_wakatime_sections: time, projects, projects-graphs, languages, languages-graphs, editors, os
+                  plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+                  plugin_wakatime_url: ${{ secrets.API_BASE_URL }}
