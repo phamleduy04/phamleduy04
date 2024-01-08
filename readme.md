@@ -2,7 +2,7 @@
 
 Hi 👋 My name is Le Duy Pham
 ============================
-Software Engineering / Cyber Security Researcher
+Software Engineer / Cyber Security Researcher
 ------------------------------------------------
 🎓 Soon to be grad with a Bachelor's of Computer Science in Software Engineering. (June 2025)
 
