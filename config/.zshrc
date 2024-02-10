@@ -26,4 +26,4 @@ export PYENV_ROOT="$HOME/.pyenv"
 [[ -d $PYENV_ROOT/bin ]] && export PATH="$PYENV_ROOT/bin:$PATH"
 eval "$(pyenv init -)"
 
-echo "Using $(python3 --version 2>&1) (pip: v$(pip --version | awk '{print $2}'))"
+python3 -V 2>&1 | awk '{print "Using", $1, "(pip: v"$2")"}'
