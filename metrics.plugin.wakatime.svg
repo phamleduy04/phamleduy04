@@ -43,12 +43,12 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">database-systems-project</span>
-                                <div class="bar" style="width: 17.424000000000003%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 17.44%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">22%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">chongluadao-telegram-bot</span>
-                                <div class="bar" style="width: 17.168%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 17.176000000000002%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">21%</span>
                             </div>
                             <div class="entry">
@@ -58,7 +58,7 @@
                             </div>
                             <div class="entry">
                                 <span class="name">gaspricebot</span>
-                                <div class="bar" style="width: 7.240000000000001%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 7.248%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">9%</span>
                             </div>
                         </div>
