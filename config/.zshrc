@@ -5,7 +5,8 @@ function cpp {
   if [ -z "$1" ]; then
     echo "No file provided."
   else
-    file=$1; base=${file%.*} title="\n––– Running C++ script "; hr=$(printf '%*s' "${COLUMNS:-$(tput cols)}" '' | tr
+    file=$1; base=${file%.*} title="\n––– Running C++ script "; hr=$(printf '%*s'
+"${COLUMNS:-$(tput cols)}" '' | tr
 ' ' –) echo "\n" && make $base && echo $title${hr:23}"\n" && ./$base && rm ./$base
   fi }
 
@@ -27,3 +28,8 @@ export PYENV_ROOT="$HOME/.pyenv"
 eval "$(pyenv init -)"
 
 python3 -V 2>&1 | awk '{print "Using", $1, "(pip: v"$2")"}'
+[ -s "$NVM_DIR/bash_completion" ] && \. "$NVM_DIR/bash_completion"  # This loads nvm bash_completion
+
+# zoxide
+eval "$(zoxide init zsh)"
+alias cd="z"
