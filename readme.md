@@ -26,6 +26,8 @@ Software Engineer / Cyber Security Researcher
 
 ![My GitHub Lang Stats](https://github-stats.agentbot.xyz/api/top-langs/?username=phamleduy04&theme=tokyonight&layout=compact)
 
+![Streak](https://github-readme-streak-stats.herokuapp.com/?user=phamleduy04&theme=tokyonight&hide_border=true&mode=weekly)
+
 ![My GitHub Stats](https://github-stats.agentbot.xyz/api?username=phamleduy04&count_private=true&show_icons=true&theme=tokyonight)
 
 
