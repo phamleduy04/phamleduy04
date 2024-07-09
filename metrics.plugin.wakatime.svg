@@ -43,22 +43,22 @@
                         <div class="chart-bars horizontal">
                             <div class="entry">
                                 <span class="name">music-bot-v2-ts</span>
-                                <div class="bar" style="width: 62.28%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                                <span class="value">78%</span>
+                                <div class="bar" style="width: 61.80800000000001%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                                <span class="value">77%</span>
                             </div>
                             <div class="entry">
                                 <span class="name">esxi-migrate-docs</span>
-                                <div class="bar" style="width: 6.5120000000000005%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <div class="bar" style="width: 6.4639999999999995%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">8%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">texas-dps-scheduler</span>
-                                <div class="bar" style="width: 3.2079999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                                <span class="value">4%</span>
+                                <span class="name">imleague-scheduler</span>
+                                <div class="bar" style="width: 3.6719999999999997%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="value">5%</span>
                             </div>
                             <div class="entry">
-                                <span class="name">imleague-scheduler</span>
-                                <div class="bar" style="width: 3.0879999999999996%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                                <span class="name">texas-dps-scheduler</span>
+                                <div class="bar" style="width: 3.184%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                                 <span class="value">4%</span>
                             </div>
                         </div>
