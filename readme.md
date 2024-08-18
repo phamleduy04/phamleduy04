@@ -14,7 +14,7 @@ Software Engineer / Cyber Security Researcher
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,git,cpp,cs,c,html,react,next,jquery,css,scss,tailwind,bootstrap,mui,vite,nodejs,express,nest,mongodb,mysql,postgres,supabase,redis,django,aws,docker,linux,figma,gcp,discord,cloudflare,photoshop)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,py,git,cpp,cs,c,html,react,next,jquery,css,scss,tailwind,bootstrap,mui,vite,nodejs,express,nest,mongodb,mysql,postgres,supabase,redis,django,aws,docker,linux,figma,gcp,discord,cloudflare,photoshop,java,spring,cypress,md,npm,pnpm,postman,prisma)](https://skillicons.dev)
 
 ### Socials
 
