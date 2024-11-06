@@ -30,7 +30,7 @@ Software Engineer / Cyber Security Researcher
 [![Devops](https://skillicons.dev/icons?i=docker,linux,aws,gcp,azure,cloudflare,postman,markdown,git,githubactions)](https://skillicons.dev)
 
 #### Others Skills
-[![Others Skills](https://skillicons.dev/icons?i=figma,discord,photoshop,cypress,npm,pnpm,dreamweaver,bots)](https://skillicons.dev)
+[![Others Skills](https://skillicons.dev/icons?i=figma,discord,photoshop,cypress,npm,pnpm,bots)](https://skillicons.dev)
 
 
 ### Socials
