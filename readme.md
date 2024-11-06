@@ -14,7 +14,24 @@ Software Engineer / Cyber Security Researcher
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,ts,py,git,cpp,cs,c,html,react,next,jquery,css,scss,tailwind,bootstrap,mui,vite,nodejs,express,nest,mongodb,mysql,postgres,supabase,redis,django,aws,docker,linux,figma,gcp,discord,cloudflare,photoshop,java,spring,cypress,md,npm,pnpm,postman,prisma)](https://skillicons.dev)
+#### Programming Languages
+[![Programming Languages](https://skillicons.dev/icons?i=js,ts,py,cpp,cs,c,nodejs,java,)](https://skillicons.dev)
+
+#### Frontend Web Development
+[![Frontend Web Development](https://skillicons.dev/icons?i=html,css,scss,react,next,jquery,tailwind,bootstrap,vite,mui)](https://skillicons.dev)
+
+#### Backend Web Development
+[![Frontend Web Development](https://skillicons.dev/icons?i=express,nest,django,spring,fastapi)](https://skillicons.dev)
+
+#### Databases
+[![Databases](https://skillicons.dev/icons?i=mysql,postgres,mongodb,mysql,redis,supabase,prisma)](https://skillicons.dev)
+
+#### Devops
+[![Devops](https://skillicons.dev/icons?i=docker,linux,aws,gcp,azure,cloudflare,postman,markdown,git,githubactions)](https://skillicons.dev)
+
+#### Others Skills
+[![Others Skills](https://skillicons.dev/icons?i=figma,discord,photoshop,cypress,npm,pnpm,dreamweaver,bots)](https://skillicons.dev)
+
 
 ### Socials
 
