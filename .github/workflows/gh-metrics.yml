@@ -1,4 +1,4 @@
-name: WakaTime
+name: Github metrics
 
 on:
     workflow_dispatch: # for manual workflow trigger
@@ -11,7 +11,7 @@ jobs:
         steps:
             - uses: lowlighter/metrics@latest
               with:
-                  filename: metrics.plugin.wakatime.svg
+                  filename: metrics.svg
                   token: ${{ secrets.GH_TOKEN }}
                   base: ""
                   plugin_wakatime: yes
@@ -29,3 +29,14 @@ jobs:
                   template: classic
                   plugin_isocalendar: yes
                   plugin_isocalendar_duration: full-year
+                  plugin_languages: yes
+                  plugin_languages_analysis_timeout: 15
+                  plugin_languages_analysis_timeout_repositories: 7.5
+                  plugin_languages_categories: markup, programming
+                  plugin_languages_colors: github
+                  plugin_languages_limit: 8
+                  plugin_languages_recent_categories: markup, programming
+                  plugin_languages_recent_days: 14
+                  plugin_languages_recent_load: 300
+                  plugin_languages_sections: most-used
+                  plugin_languages_threshold: 0%
