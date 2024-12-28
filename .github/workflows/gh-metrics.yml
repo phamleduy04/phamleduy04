@@ -15,13 +15,13 @@ jobs:
                   token: ${{ secrets.GH_TOKEN }}
                   base: header, activity, community, repositories, metadata
                   config_timezone: America/Chicago
-                  plugin_wakatime: yes
-                  plugin_wakatime_sections: time, projects, projects-graphs # Display time and projects sections, along with projects graphs
-                  plugin_wakatime_limit: 4
-                  plugin_wakatime_days: 30
-                  plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
-                  plugin_wakatime_url: ${{ secrets.API_BASE_URL }}
-                  plugin_wakatime_user: .user.login
+                  plugin_wakatime: no
+                  #plugin_wakatime_sections: time, projects, projects-graphs # Display time and projects sections, along with projects graphs
+                  #plugin_wakatime_limit: 4
+                  #plugin_wakatime_days: 30
+                  #plugin_wakatime_token: ${{ secrets.WAKATIME_API_KEY }}
+                  #plugin_wakatime_url: ${{ secrets.API_BASE_URL }}
+                  #plugin_wakatime_user: .user.login
                   plugin_achievements: yes
                   plugin_achievements_display: detailed
                   plugin_achievements_secrets: yes
@@ -39,8 +39,12 @@ jobs:
                   plugin_languages_recent_categories: markup, programming
                   plugin_languages_recent_days: 365
                   plugin_languages_recent_load: 300
-                  plugin_languages_sections: most-used, recently-used
+                  plugin_languages_sections: recently-used
                   plugin_languages_threshold: 0%
                   plugin_languages_indepth: yes
                   commits_authoring: Duy Pham Le, phamleduy04, 32657584+phamleduy04@users.noreply.github.com
+                  base_indepth: yes
+                  base_hirable: yes
+                  repositories_forks: yes
+                  repositories_affiliations: owner, collaborator, organization_member
 
