@@ -41,10 +41,6 @@ Software Engineer / Cyber Security Researcher
 
 [![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/phamleduy04.png)](https://tryhackme.com/p/phamleduy04)
 
-![My GitHub Lang Stats](https://github-stats.agentbot.xyz/api/top-langs/?username=phamleduy04&theme=tokyonight&layout=compact)
-
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=phamleduy04&theme=tokyonight&hide_border=true&mode=weekly)
-
-![My GitHub Stats](https://github-stats.agentbot.xyz/api?username=phamleduy04&count_private=true&show_icons=true&theme=tokyonight)
-
-
+<div align="left">
+  <img src="https://raw.githubusercontent.com/phamleduy04/phamleduy04/master/metrics.svg" alt="Metrics" width="80%">
+</div>
