@@ -13,7 +13,8 @@ jobs:
               with:
                   filename: metrics.svg
                   token: ${{ secrets.GH_TOKEN }}
-                  base: ""
+                  base: header, activity, community, repositories, metadata
+                  config_timezone: America/Chicago
                   plugin_wakatime: yes
                   plugin_wakatime_sections: time, projects, projects-graphs # Display time and projects sections, along with projects graphs
                   plugin_wakatime_limit: 4
