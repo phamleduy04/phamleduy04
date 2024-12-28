@@ -38,13 +38,13 @@ jobs:
                   plugin_languages_limit: 8
                   plugin_languages_recent_categories: markup, programming
                   plugin_languages_recent_days: 365
-                  plugin_languages_recent_load: 300
+                  plugin_languages_recent_load: 1000
                   plugin_languages_sections: recently-used
                   plugin_languages_threshold: 0%
                   plugin_languages_indepth: yes
                   commits_authoring: Duy Pham Le, phamleduy04, 32657584+phamleduy04@users.noreply.github.com
                   base_indepth: yes
-                  base_hirable: yes
+                  base_hireable: yes
                   repositories_forks: yes
                   repositories_affiliations: owner, collaborator, organization_member
 
