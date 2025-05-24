@@ -4,7 +4,7 @@ Hi 👋 My name is Le Duy Pham
 ============================
 Software Engineer / Cyber Security Researcher
 ------------------------------------------------
-🎓 Soon to be grad with a Bachelor's of Computer Science in Software Engineering. (June 2025)
+🎓 Soon to be grad with a Bachelor's of Computer Science in Software Engineering. (December 2025)
 
 * 🌍  I'm based in Dallas - Fort Worth
 * ✉️  You can contact me at [dui@agentbot.xyz](mailto:dui@agentbot.xyz)
