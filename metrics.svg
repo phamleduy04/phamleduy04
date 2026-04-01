@@ -214,7 +214,7 @@
             </section>
             <section class="column">
                 <h3 class="field">Recently used languages</h3>
-                <small>estimation from 1.24mb of code in 485 edited files across 280 commits over last 29 days</small>
+                <small>estimation from 1.24mb of code in 486 edited files across 282 commits over last 29 days</small>
                 <svg class="bar" xmlns="http://www.w3.org/2000/svg" width="460" height="8">
                     <mask id="languages-bar">
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
@@ -2302,7 +2302,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 1 Apr 2026, 10:33:56 (timezone America/Chicago) with gh-metrics/metrics@3.35.0-beta</span>
+                <span>Last updated 1 Apr 2026, 10:43:08 (timezone America/Chicago) with gh-metrics/metrics@3.35.0-beta</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
