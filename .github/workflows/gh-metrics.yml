@@ -9,8 +9,7 @@ jobs:
     github-metrics:
         runs-on: ubuntu-latest
         steps:
-        # https://github.com/lowlighter/metrics/issues/1706
-            - uses: dkhokhlov/metrics@master # lowlighter/metrics@latest
+            - uses: lowlighter/metrics@fixes
               with:
                   filename: metrics.svg
                   token: ${{ secrets.GH_TOKEN }}
