@@ -8,11 +8,14 @@ on:
 jobs:
     github-metrics:
         runs-on: ubuntu-latest
+        permissions:
+          contents: read
+          id-token: write
         steps:
             - uses: gh-metrics/metrics@fixes
               with:
                   filename: metrics.svg
-                  token: ${{ secrets.GH_TOKEN }}
+                  token: ${{ secrets.GITHUB_TOKEN }}
                   base: header, activity, community, repositories, metadata
                   config_timezone: America/Chicago
                   plugin_wakatime: no
