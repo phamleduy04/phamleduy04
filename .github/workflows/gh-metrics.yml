@@ -9,7 +9,7 @@ jobs:
     github-metrics:
         runs-on: ubuntu-latest
         steps:
-            - uses: lowlighter/metrics@fixes
+            - uses: gh-metrics/metrics@fixes
               with:
                   filename: metrics.svg
                   token: ${{ secrets.GH_TOKEN }}
