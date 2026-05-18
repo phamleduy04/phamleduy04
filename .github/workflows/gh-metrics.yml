@@ -12,7 +12,7 @@ jobs:
           contents: read
           id-token: write
         steps:
-            - uses: gh-metrics/metrics@fixes
+            - uses: gh-metrics/metrics@master
               with:
                   filename: metrics.svg
                   token: ${{ secrets.GITHUB_TOKEN }}
