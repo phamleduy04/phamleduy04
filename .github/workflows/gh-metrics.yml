@@ -9,13 +9,13 @@ jobs:
     github-metrics:
         runs-on: ubuntu-latest
         permissions:
-          contents: write
+          contents: read
           id-token: write
         steps:
             - uses: phamleduy04/metrics@master
               with:
                   filename: metrics.svg
-                  token: ${{ secrets.GITHUB_TOKEN }}
+                  token: ${{ secrets.GH_TOKEN }}
                   base: header, activity, community, repositories, metadata
                   config_timezone: America/Chicago
                   plugin_wakatime: no
